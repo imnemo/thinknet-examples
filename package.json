@@ -1,0 +1,21 @@
+{
+  "name": "thinknet-examples",
+  "version": "1.0.0",
+  "description": "thinknet examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "net",
+    "thinkenet"
+  ],
+  "author": "imnemo <oncoding1988@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "3.1.0",
+    "thinknet": "0.0.5",
+    "thinknet-protocol-json-simple": "1.0.0-alpha.4",
+    "thinknet-router-simple": "1.0.0-alpha.5"
+  }
+}
